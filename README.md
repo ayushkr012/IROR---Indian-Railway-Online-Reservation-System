@@ -351,13 +351,7 @@ ON Users (Email);
 
 ![Untitled](images/Untitled%201.png)
 
-### Register Page
 
-![Untitled](images/Untitled%202.png)
-
-### Login Page
-
-![Untitled](images/Untitled%203.png)
 
 ### Home Page - User Mode
 
@@ -367,9 +361,6 @@ ON Users (Email);
 
 ![Untitled](images/Untitled%206.png)
 
-### Passenger Details Booking
-
-![Untitled](images/Untitled%207.png)
 
 ### My Tickets
 
